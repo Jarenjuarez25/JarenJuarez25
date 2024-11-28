@@ -8,7 +8,6 @@
 
 <!--Header Name-->
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jaren! 
-*Programador Jr (frontend / backend)*
 <br /> 
 
   <!-- Profile Picture -->
@@ -17,7 +16,6 @@
   <!-- Description -->
 ```diff
 @@ 💻University student of systems engineering.@@
-+  ✔️ +2 years of experience.
 #  👨‍💻 I am 19 years old.
 -  🚀 Optimizing web pages.
 !  ✨ If you can imagine, it you can program it. 
