@@ -43,14 +43,14 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,materialui,css,html" />
+    <img src="https://skillicons.dev/icons?i=ts,js,materialui,css,html" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
